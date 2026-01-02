@@ -36,12 +36,8 @@ The application follows a **Client–Server Architecture**:
 ---
 
 ## 📂 Project Structure
-JavaAWTChatApplication/
-└── src/
-    └── chat/
-        ├── Momo.java      // Server implementation
-        └── Kiki.java      // Client implementation
 
+System.out.println("JavaAWTChatApplication/\n└── src/\n    └── chat/\n        ├── Momo.java\n        └── Kiki.java");
 
 ---
 
