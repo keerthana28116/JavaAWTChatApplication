@@ -98,6 +98,16 @@ JavaAWTChatApplication/
 
 ---
 
+## 🖼️ Application Output
+
+<p align="center">
+  <img src="chatoutput.png" alt="Java AWT Chat Application Output" width="600"/>
+</p>
+
+<p align="center"><i>Client–Server Chat Application Output</i></p>
+
+---
+
 ## 📬 Contact
 📧 Email: keerthana28116@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/keerthana-p-954242305  
